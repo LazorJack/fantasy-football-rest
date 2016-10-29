@@ -1,0 +1,20 @@
+# generator info
+name: Spring Boot Rest Microservice
+group: atomist-project-templates
+artifact: spring-rest-service
+version: 3.1.1
+
+# backing git repo
+repo: n/a
+branch: n/a
+sha: n/a
+
+# parameter values
+project_name: fantasy-football-rest
+artifact_id: fantasy-football
+group_id: com.lazorjack
+version: 0.0.1-SNAPSHOT
+description: Fantasy football fun
+root_package: com.lazorjack
+service_class_name: FantasyFootball
+
