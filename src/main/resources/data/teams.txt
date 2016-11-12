@@ -1,0 +1,32 @@
+American Football Conference	East	Buffalo Bills	Orchard Park, NY	New Era Field	71,608	42.774°N 78.787°W	1960 (AFL), 1970 (NFL)	Rex Ryan
+American Football Conference	East	Miami Dolphins	Miami Gardens, FL	Hard Rock Stadium	65,326	25.958°N 80.239°W	1966 (AFL), 1970 (NFL)	Adam Gase
+American Football Conference	East	New England Patriots	Foxborough, MA	Gillette Stadium	66,829	42.091°N 71.264°W	1960 (AFL), 1970 (NFL)	Bill Belichick
+American Football Conference	East	New York Jets	East Rutherford, NJ	MetLife Stadium	82,500	40.814°N 74.074°W	1960 (AFL), 1970 (NFL)	Todd Bowles
+American Football Conference	North	Baltimore Ravens	Baltimore, MD	M&T Bank Stadium	71,008	39.278°N 76.623°W	1996	John Harbaugh
+American Football Conference	North	Cincinnati Bengals	Cincinnati, OH	Paul Brown Stadium	65,515	39.095°N 84.516°W	1968 (AFL), 1970 (NFL)	Marvin Lewis
+American Football Conference	North	Cleveland Browns	Cleveland, OH	FirstEnergy Stadium	67,431	41.506°N 81.699°W	1946 (AAFC), 1950 (NFL)	Hue Jackson
+American Football Conference	North	Pittsburgh Steelers	Pittsburgh, PA	Heinz Field	68,400	40.447°N 80.016°W	1933	Mike Tomlin
+American Football Conference	South	Houston Texans	Houston, TX	NRG Stadium	72,220	29.685°N 95.411°W	2002	Bill O'Brien
+American Football Conference	South	Indianapolis Colts	Indianapolis, IN	Lucas Oil Stadium	67,000	39.760°N 86.164°W	1953	Chuck Pagano
+American Football Conference	South	Jacksonville Jaguars	Jacksonville, FL	EverBank Field	67,246	30.324°N 81.638°W	1995	Gus Bradley
+American Football Conference	South	Tennessee Titans	Nashville, TN	Nissan Stadium	69,143	36.166°N 86.771°W	1960 (AFL), 1970 (NFL)	Mike Mularkey
+American Football Conference	West	Denver Broncos	Denver, CO	Sports Authority Field at Mile High	76,125	39.744°N 105.02°W	1960 (AFL), 1970 (NFL)	Gary Kubiak
+American Football Conference	West	Kansas City Chiefs	Kansas City, MO	Arrowhead Stadium	76,416	39.049°N 94.484°W	1960 (AFL), 1970 (NFL)	Andy Reid
+American Football Conference	West	Oakland Raiders	Oakland, CA	Oakland Alameda Coliseum	56,063	37.752°N 122.201°W	1960 (AFL), 1970 (NFL)	Jack Del Rio
+American Football Conference	West	San Diego Chargers	San Diego, CA	Qualcomm Stadium	70,561	32.783°N 117.119°W	1960 (AFL), 1970 (NFL)	Mike McCoy
+National Football Conference	East	Dallas Cowboys	Arlington, TX	AT&T Stadium	80,000	32.748°N 97.093°W	1960	Jason Garrett
+National Football Conference	East	New York Giants	East Rutherford, NJ	MetLife Stadium	82,500	40.814°N 74.074°W	1925	Ben McAdoo
+National Football Conference	East	Philadelphia Eagles	Philadelphia, PA	Lincoln Financial Field	69,596	39.901°N 75.168°W	1933	Doug Pederson
+National Football Conference	East	Washington Redskins	Landover, MD	FedExField	82,000	38.908°N 76.864°W	1932	Jay Gruden
+National Football Conference	North	Chicago Bears	Chicago, IL	Soldier Field	61,500	41.863°N 87.617°W	1920	John Fox
+National Football Conference	North	Detroit Lions	Detroit, MI	Ford Field	65,000	42.34°N 83.046°W	1930	Jim Caldwell
+National Football Conference	North	Green Bay Packers	Green Bay, WI	Lambeau Field	81,435	44.501°N 88.062°W	1921	Mike McCarthy
+National Football Conference	North	Minnesota Vikings	Minneapolis, MN	U.S. Bank Stadium	66,655	44.9739°N 93.2581°W	1961	Mike Zimmer
+National Football Conference	South	Atlanta Falcons	Atlanta, GA	Georgia Dome	71,250	33.758°N 84.401°W	1966	Dan Quinn
+National Football Conference	South	Carolina Panthers	Charlotte, NC	Bank of America Stadium	75,419	35.226°N 80.853°W	1995	Ron Rivera
+National Football Conference	South	New Orleans Saints	New Orleans, LA	Mercedes-Benz Superdome	73,000	29.951°N 90.081°W	1967	Sean Payton
+National Football Conference	South	Tampa Bay Buccaneers	Tampa, FL	Raymond James Stadium	65,890	27.976°N 82.503°W	1976	Dirk Koetter
+National Football Conference	West	Arizona Cardinals	Glendale, AZ	University of Phoenix Stadium	63,400	33.528°N 112.263°W	1920	Bruce Arians
+National Football Conference	West	Los Angeles Rams	Los Angeles, CA	Los Angeles Memorial Coliseum	93,607	34.014°N 118.288°W	1937	Jeff Fisher
+National Football Conference	West	San Francisco 49ers	Santa Clara, CA	Levi's Stadium	68,500	37.403°N 121.97°W	1946 (AAFC), 1950 (NFL)	Chip Kelly
+National Football Conference	West	Seattle Seahawks	Seattle, WA	CenturyLink Field	68,000	47.595°N 122.332°W	1976	Pete Carroll
