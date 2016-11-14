@@ -1,6 +1,6 @@
 package com.lazorjack.repository;
 
-import com.lazorjack.entity.League;
+import com.lazorjack.football.entity.League;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

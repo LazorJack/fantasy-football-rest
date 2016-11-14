@@ -1,6 +1,6 @@
 package com.lazorjack.service;
 
-import com.lazorjack.entity.Conference;
+import com.lazorjack.football.entity.Conference;
 import com.lazorjack.repository.ConferenceRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
